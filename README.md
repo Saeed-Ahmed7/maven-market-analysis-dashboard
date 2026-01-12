@@ -1,2 +1,1 @@
-# maven-market-analysis-dashboard
-Maven Market Sales Data Analysis using Power BI
+This project is a Power BI dashboard for market data analysis. It provides insights into sales, profit margins, product performance, and trends over time. The dashboard is designed for easy visualization of key market metrics.
